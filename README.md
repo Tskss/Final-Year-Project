@@ -1,4 +1,4 @@
-# Final-Year-Project 
+# Final-Year-Project-Agribot 
 First Start Xampp and run both Apache and mysql (local server is required to run project)
 create a database in mysql for taking inputs from the user (login ceredentials - username and password)
 
