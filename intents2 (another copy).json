@@ -1,0 +1,119 @@
+{
+    "intents": [
+         {
+            "tag": "mining_rules_list",
+            "patterns": [
+                "What are different rules in the mining industry?",
+                "Can you list some rules for mining?",
+                "Tell me about key regulations in mining.",
+                "List the important rules for the mining sector.",
+                "What rules govern mining activities?",
+                "Explain the regulatory framework for mining.",
+                "Share information on mining industry guidelines.",
+                "What are the legal requirements for mining operations?",
+                "Discuss the rules and regulations in the mining sector.",
+                "Can you provide an overview of mining industry standards?",
+                "Tell me about the specific rules for mineral extraction.",
+                "Explain the laws surrounding mining activities.",
+                "List some important rules for responsible mining.",
+                "Discuss the key regulations for environmental protection in mining.",
+                "What governmental regulations apply to mining?",
+                "Explain the role of regulatory bodies in the mining sector.",
+                "Are there specific rules for sustainable mining practices?",
+                "Tell me about the licensing process for mining operations.",
+                "What safety measures are mandated in the mining industry?",
+                "Share insights into the rules governing granite conservation in mining."
+            ],
+            "responses": [
+                "Some key rules in the mining industry include:\n1. The Mineral Concession Rules, 1960\n2. The Mineral Conservation and Development Rules, 1988\n3. The Mines and Minerals (Development and Regulation) Act, 1957\n4. The Granite Conservation and Development Rules, 1999",
+                "Mining regulations play a crucial role in governing activities. Some notable rules are:\n1. The Mineral Concession Rules, 1960\n2. The Mineral Conservation and Development Rules, 1988\n3. The Mines and Minerals (Development and Regulation) Act, 1957\n4. The Granite Conservation and Development Rules, 1999",
+                "Key regulations in the mining industry include:\n1. The Mineral Concession Rules, 1960\n2. The Mineral Conservation and Development Rules, 1988\n3. The Mines and Minerals (Development and Regulation) Act, 1957\n4. The Granite Conservation and Development Rules, 1999",
+                "Listed below are some important rules for the mining sector:\n1. The Mineral Concession Rules, 1960\n2. The Mineral Conservation and Development Rules, 1988\n3. The Mines and Minerals (Development and Regulation) Act, 1957\n4. The Granite Conservation and Development Rules, 1999",
+                "The regulatory framework for mining includes key rules such as:\n1. The Mineral Concession Rules, 1960\n2. The Mineral Conservation and Development Rules, 1988\n3. The Mines and Minerals (Development and Regulation) Act, 1957\n4. The Granite Conservation and Development Rules, 1999",
+                "Mining industry guidelines encompass rules like:\n1. The Mineral Concession Rules, 1960\n2. The Mineral Conservation and Development Rules, 1988\n3. The Mines and Minerals (Development and Regulation) Act, 1957\n4. The Granite Conservation and Development Rules, 1999",
+                "Legal requirements for mining operations are outlined in key rules such as:\n1. The Mineral Concession Rules, 1960\n2. The Mineral Conservation and Development Rules, 1988\n3. The Mines and Minerals (Development and Regulation) Act, 1957\n4. The Granite Conservation and Development Rules, 1999",
+                "Mining sector rules and regulations include:\n1. The Mineral Concession Rules, 1960\n2. The Mineral Conservation and Development Rules, 1988\n3. The Mines and Minerals (Development and Regulation) Act, 1957\n4. The Granite Conservation and Development Rules, 1999",
+                "An overview of mining industry standards reveals rules like:\n1. The Mineral Concession Rules, 1960\n2. The Mineral Conservation and Development Rules, 1988\n3. The Mines and Minerals (Development and Regulation) Act, 1957\n4. The Granite Conservation and Development Rules, 1999",
+                "Specific rules for mineral extraction include:\n1. The Mineral Concession Rules, 1960\n2. The Mineral Conservation and Development Rules, 1988\n3. The Mines and Minerals (Development and Regulation) Act, 1957\n4. The Granite Conservation and Development Rules, 1999"
+            ]
+        },
+                {
+            "tag": "injured_worker_rights",
+            "patterns": [
+                "What rights does a person have if they get injured at work?",
+                "Can you explain the rights of an employee injured on the job?",
+                "What protections are available for workers who suffer injuries in the workplace?",
+                "If someone gets hurt at work, what legal rights do they have?",
+                "Tell me about the rights of an injured worker.",
+                "What are the legal remedies for employees injured during work?",
+                "Explain the worker's rights in case of workplace injuries.",
+                "If an employee is injured, what entitlements do they have?",
+                "Discuss the legal aspects of workplace injuries and employee rights.",
+                "What compensation rights does an injured worker have?",
+                "Can you list the rights of an employee who sustains an injury at work?",
+                "Explain the employer's responsibilities for an injured worker.",
+                "What laws protect workers injured on the job?",
+                "Tell me about the rights of injured workers according to labor laws.",
+                "In case of a workplace injury, what rights does the employee retain?",
+                "Discuss the legal recourse for workers injured during employment.",
+                "What steps should an injured worker take to protect their rights?",
+                "Tell me about the benefits and rights for employees injured at work.",
+                "Explain the process of filing a claim for a workplace injury.",
+                "What legal options are available to an injured employee in the workplace?"
+            ],
+            "responses": [
+                "When a person is injured at work, they may be entitled to workers' compensation benefits.",
+                "Injured workers typically have the right to receive medical treatment and compensation for lost wages.",
+                "Workers injured on the job have the right to file a workers' compensation claim.",
+                "Employers are generally obligated to provide a safe working environment and compensation for injured employees.",
+                "Legal rights for injured workers often include medical care, disability benefits, and rehabilitation services.",
+                "Workers' compensation laws vary, but they commonly cover medical expenses and a portion of lost wages.",
+                "Injured employees may have the right to pursue legal action against a third party if their injury was caused by someone other than their employer.",
+                "Employers are generally prohibited from retaliating against employees who exercise their rights to workers' compensation.",
+                "Injured workers have the right to report workplace injuries and file a workers' compensation claim.",
+                "Workers' compensation benefits may include coverage for medical bills, rehabilitation, and disability benefits.",
+                "Workers' compensation laws are designed to provide a swift resolution for injured employees without the need for lengthy legal battles.",
+                "Employees injured at work may have the right to choose their own healthcare provider for treatment.",
+                "Injured workers have the right to request an investigation into the circumstances that led to their injury.",
+                "Workers' compensation benefits aim to provide financial support and aid in the recovery of injured employees.",
+                "Employers are typically required to carry workers' compensation insurance to cover injured workers.",
+                "Injured workers may be entitled to vocational rehabilitation services to help them return to work.",
+                "Workers' compensation laws protect both the rights of the employee and the employer in the event of a workplace injury.",
+                "Injured workers should promptly report their injuries to their employer to preserve their rights to compensation.",
+                "Legal rights for injured workers may extend to compensation for pain and suffering.",
+                "Workers injured on the job may have the right to appeal decisions related to their workers' compensation claim."
+            ]
+        },
+            {
+        "tag": "crop_yield_tips",
+        "patterns": [
+            "How can I improve my crop yield?",
+            "What are some tips for increasing crop yield?",
+            "Tell me ways to enhance crop productivity.",
+            "Any advice on maximizing crop harvest?",
+            "Share tips for improving agricultural productivity.",
+            "What practices lead to better crop yields?",
+            "How can I maximize my crop yield?",
+            "I want to optimize my crop yield. Any suggestions?",
+            "What measures can be taken for better crop yields?",
+            "Can you provide advice on increasing crop production?",
+            "How does temperature affect crop yield?",
+            "Tell me about improving crop yield in regions with black soil.",
+            "What are the best practices for enhancing crop yield in areas with high temperatures?",
+            "How does soil type impact crop productivity?",
+            "What steps can I take to ensure a good crop yield in high-temperature and black soil conditions?",
+            "Are there specific strategies for improving crop yield in regions with both high temperatures and black soil?",
+            "I'm looking for advice on increasing crop yield in challenging environmental conditions.",
+            "What role does temperature play in crop growth and yield?",
+            "How does climate affect crop productivity?",
+            "Tell me about optimizing crop yield in adverse weather conditions."
+            // ... additional patterns
+        ],
+        "responses": [
+            "please provide the details related to your soila nd weather in to given form: "
+            // ... additional responses
+        ]
+    },
+
+    ]
+}
