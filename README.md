@@ -1,6 +1,8 @@
 # Final-Year-Project 
 First Start Xampp and run both Apache and mysql (loacl server is required to run project)
 create a database in mysql for taking inputs from the user (login ceredentials - username and password)
+
+
 open anaconda navigator
 use the following commands to run the project:
 cd {path of project}
