@@ -5,8 +5,11 @@ create a database in mysql for taking inputs from the user (login ceredentials -
 open anaconda navigator
 
 use the following commands to run the project:
+
 cd {path of project}
+
 conda activate leaf_disease  (our virtual envirnment)
+
 python app.py (starts the flask to launch our web application)
 
 link would be provided in the anaconda navigator use that local link to access the webpage
