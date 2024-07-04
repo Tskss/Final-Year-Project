@@ -1,7 +1,7 @@
 # Final-Year-Project-Agribot 
 **Download** the entire code and files as **zip file** using the **code** option in Git-hub.
 
-Then on your system 
+Then on your system :
 
 First Start Xampp and run both Apache and mysql (local server is required to run project)
 create a database in mysql for taking inputs from the user (login ceredentials - username and password)
